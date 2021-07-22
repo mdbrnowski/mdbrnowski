@@ -4,23 +4,23 @@ I'm a high school student from Poland interested in Python, Data Analysis and ma
 
 ## Contact 💬
 
-If you speak Polish, English or German and want to contact me - feel free. 😉
+If you speak Polish, English or German and want to contact me – feel free. 😉
 
 ## Skills
 
-### ▰▰▰▰
+#### ▰▰▰▰
 
 [![Python](https://img.shields.io/badge/.py-Python-B6D5E1?logo=python&logoColor=white&style=flat-square)](https://github.com/michal-dbrnowski?tab=repositories&language=python)
 ![Markdown](https://img.shields.io/badge/.md-Markdown-B6D5E1?logo=markdown&logoColor=white&labelColor=555&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-B6D5E1?logo=github&logoColor=555&style=flat-square)
 
-### ▰▰▰▱
+#### ▰▰▰▱
 
 ![C++](https://img.shields.io/badge/.cpp-C++-B6D5E1?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/.git-Git-B6D5E1?logo=git&logoColor=white&style=flat-square)
 ![LaTeX](https://img.shields.io/badge/.tex-LaTeX-B6D5E1?logo=latex&logoColor=white&style=flat-square)
 
-### ▰▰▱▱
+#### ▰▰▱▱
 
 ![NumPy](https://img.shields.io/badge/.py-NumPy-B6D5E1?logo=numpy&logoColor=white&style=flat-square)
 ![pandas](https://img.shields.io/badge/.py-pandas-B6D5E1?logo=pandas&logoColor=white&style=flat-square)
@@ -29,7 +29,7 @@ If you speak Polish, English or German and want to contact me - feel free. 😉
 ![CSS](https://img.shields.io/badge/.css-CSS-B6D5E1?logo=css3&logoColor=white&style=flat-square)
 ![SASS](https://img.shields.io/badge/.scss-SASS-B6D5E1?logo=sass&logoColor=white&style=flat-square)
 
-### ▰▱▱▱
+#### ▰▱▱▱
 
 ![JavaScript](https://img.shields.io/badge/.js-JavaScript-B6D5E1?logo=javascript&logoColor=white&style=flat-square)
 ![jQuery](https://img.shields.io/badge/.js-jQuery-B6D5E1?logo=jquery&logoColor=white&style=flat-square)
@@ -49,4 +49,4 @@ If you speak Polish, English or German and want to contact me - feel free. 😉
 
 <br>
 
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-dbrnowski&hide=stars&count_private=true&show_icons=true&theme=light&icon_color=555273&title_color=555273&hide_border=true) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michal-dbrnowski&hide_border=true&ring=555273&fire=B6D5E1&currStreakLabel=555273)
+![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbrnowski&hide=stars&count_private=true&show_icons=true&theme=light&icon_color=555273&title_color=555273&hide_border=true) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdbrnowski&hide_border=true&ring=555273&fire=B6D5E1&currStreakLabel=555273)
