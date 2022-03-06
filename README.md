@@ -1,6 +1,6 @@
-# Hi, it's Michał 👋
+# Hello 👋
 
-I'm a high school student from Poland interested in Python, Data Analysis and mathematics. I also write a lot of code in C++ for programming competitions.
+My name is **Michał**, I'm a high school student from Poland interested in Python, Data Analysis and Maths. I also write a lot of code in C++ for programming competitions.
 
 ## Contact 💬
 
@@ -31,6 +31,7 @@ If you speak Polish, English or German and want to contact me – feel free. �
 
 #### ▰▱▱▱
 
+![Flask](https://img.shields.io/badge/.py-Flask-B6D5E1?logo=flask&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/.js-JavaScript-B6D5E1?logo=javascript&logoColor=white&style=flat-square)
 ![jQuery](https://img.shields.io/badge/.js-jQuery-B6D5E1?logo=jquery&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/.py-scikit--learn-B6D5E1?logo=scikit-learn&logoColor=white&style=flat-square)
@@ -42,11 +43,6 @@ If you speak Polish, English or German and want to contact me – feel free. �
 * [Programming Quantum Computers Workshop (~26h, Quantum AI Foundation)](images/Programming_Quantum_Computers.jpg)
 * [Scientific Computing with Python (~400h, freeCodeCamp)](https://freecodecamp.org/certification/michaldo8/scientific-computing-with-python-v7)
 
-## My contribution
+## Stats
 
-* localizing Qiskit tutorials *[1293 words]*
-* localizing ProtonMail *[665 words]*
-
-<br>
-
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbrnowski&hide=stars&count_private=true&show_icons=true&theme=light&icon_color=555273&title_color=555273&hide_border=true) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdbrnowski&hide_border=true&ring=555273&fire=B6D5E1&currStreakLabel=555273)
+![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbrnowski&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&show_icons=true&theme=light&icon_color=555273&title_color=555273)
