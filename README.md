@@ -9,7 +9,7 @@ If you speak Polish, English or German and want to contact me – feel free (pre
 
 ## Skills
 
-[![Codeforces rating](https://img.shields.io/badge/dynamic/json?logo=codeforces&logoColor=white&style=flat-square&color=%2303a89e&label=Codeforces&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmdbrnowski)](https://codeforces.com/profile/mdbrnowski)
+[![Codeforces rating](https://img.shields.io/badge/dynamic/json?logo=codeforces&logoColor=white&style=flat-square&color=0000FF&label=Codeforces&query=%24.result%5B0%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmdbrnowski)](https://codeforces.com/profile/mdbrnowski)
 
 #### ▰▰▰▰
 
@@ -36,6 +36,7 @@ If you speak Polish, English or German and want to contact me – feel free (pre
 #### ▰▱▱▱
 
 ![Flask](https://img.shields.io/badge/.py-Flask-B6D5E1?logo=flask&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/.sh-Linux-B6D5E1?logo=linux&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/.js-JavaScript-B6D5E1?logo=javascript&logoColor=white&style=flat-square)
 ![jQuery](https://img.shields.io/badge/.js-jQuery-B6D5E1?logo=jquery&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/.py-scikit--learn-B6D5E1?logo=scikit-learn&logoColor=white&style=flat-square)
