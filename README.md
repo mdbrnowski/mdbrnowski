@@ -4,6 +4,8 @@ My name is **Michał**, I'm passionate about data analysis, algorithms, and disc
 
 ## Contact 💬
 
+[![in/dobranowski](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dobranowski/)
+
 If you speak Polish, English or German and want to contact me – feel free (preferably via email). 😉
 
 ## Skills
