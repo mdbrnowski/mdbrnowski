@@ -34,10 +34,6 @@ If you speak Polish, English or German and want to contact me – feel free (pre
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-## Certificates
-
-* [Programming Quantum Computers Workshop (~26h, Quantum AI Foundation)](images/Programming_Quantum_Computers.jpg)
-
 ## Stats
 
 ![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdbrnowski&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&show_icons=true&theme=light&icon_color=555273&title_color=555273)
